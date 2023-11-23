@@ -1,0 +1,91 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(back1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.posting-form-box{
+    /* border: 3px solid black; */
+    padding: 150px 25px;
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.posting-form{
+    /* border: 3px solid white; */
+    padding: 40px 5px;
+    
+    /* display: flex; */
+    /* flex-direction: row; */
+}
+.form-control{
+    width: 250px !important;
+}
+.radio-btn{
+    margin-left: 154px;
+    margin-top: 5px;
+}
+.radio-btn span{
+    color: white;
+}
+.first-content{
+    display: flex;
+    flex-direction: row;
+}
+.first-content input{
+    margin-left: 8px;
+}
+.first-content label{
+    margin-top: 4px;
+    color: white;
+}
+.sub1{
+    margin-top: 4px;
+    margin-left: 35px;
+}
+.sub2{
+    margin-top: 4px;
+    margin-left: 35px;
+}
+.second-content{
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+}
+.second-content label{
+    margin-top: 4px;
+    color: white;
+}
+.second-content input{
+    margin-left: 20px;
+}
+.sub3{
+    margin-top: 4px;
+    margin-left: 0px;
+}
+.sub4{
+    margin-top: 4px;
+    margin-left: 30px;
+}
+.sub5{
+    margin-top: 4px;
+    margin-left: 35px;
+}
+#post{
+   margin-left: 580px;
+   margin-top: 15px;
+}
+/* .radio-btn .btn{
+    margin: 20px 10px 20px 0;
+    box-shadow: none;
+} */
+/* .radio-btn .btn{
+    box-shadow: none;
+} */
+/* .radio-btn .btn::after{
+    content: '';
+    background-color: #000 !important;
+    transition: 0.5s;
+} */
