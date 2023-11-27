@@ -1,0 +1,155 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(back1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.posting-form-box {
+    /* border: 3px solid black; */
+    padding: 80px 25px;
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.posting-form {
+    /* border: 3px solid white; */
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-left: 15px;
+}
+
+.first-content {
+    display: flex;
+    flex-direction: row;
+}
+
+.first-content label {
+    font-size: 18px;
+    margin-top: 5px;
+    margin-right: 50px;
+    color: white;
+}
+
+#first-content {
+    margin-left: 100px;
+}
+
+#first-content-sub {
+    margin-left: 93px;
+}
+
+#calendar {
+    margin-left: 6px;
+}
+
+.form-control {
+    width: 250px !important;
+}
+
+.radio-btn {
+    margin-left: 314px;
+    margin-top: 5px;
+}
+
+.radio-btn span {
+    color: white;
+}
+
+.second-content {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.second-content label {
+    font-size: 18px;
+    color: white;
+    margin-left: 100px;
+    margin-top: 5px;
+    margin-right: 50px;
+}
+
+.second-content input {
+    margin-left: 15px;
+}
+
+.sub1 {
+    margin-top: 4px;
+    margin-left: 35px;
+}
+
+.sub2 {
+    margin-top: 4px;
+    margin-left: 35px;
+}
+
+#sub2 {
+    margin-left: 42px;
+}
+
+
+.third-content {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.third-content label {
+    font-size: 18px;
+    color: white;
+    margin-left: 100px;
+    margin-top: 5px;
+    margin-right: 50px;
+}
+
+.sub3 {
+    margin-top: 4px;
+    margin-left: 0px;
+}
+
+#sub3 {
+    margin-left: 5px;
+}
+
+.sub4 {
+    margin-top: 4px;
+    margin-left: 30px;
+}
+
+#sub4 {
+    margin-left: 28px;
+}
+
+.fourth-content {
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-left: 102px;
+}
+
+.fourth-content label {
+    color: white;
+    font-size: 18px;
+    margin-top: 4px;
+}
+
+.fourth-content input {
+    margin-left: 10px;
+}
+
+.fifth-content {
+    margin-top: 25px;
+    margin-left: 530px;
+}
+
+.fifth-content button {
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+    color: black;
+    font-size: 18px;
+}
